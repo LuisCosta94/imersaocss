@@ -15,6 +15,12 @@
     height: 100vh;
     
   }
+  
+  .img-portfolio {
+    width: 180px;
+    height: 180px;
+  }
+  
   /* se a tela tiver pelo menos 400px vai carregar estes estilos */
   @media (min-width: 360px) {
     body{
@@ -77,10 +83,7 @@
     color: whitesmoke;
   }
 
-  .img-portfolio {
-    width: 180px;
-    height: 180px;
-  }
+  
 
   
   
