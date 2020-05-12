@@ -3,12 +3,10 @@
     padding: 0px;
     font-family: sans-serif;
     background-image: url("https://i.pinimg.com/originals/0c/a0/dd/0ca0ddd9bf8dfee8a2c26227bf21f6b8.gif");
-    background-size: 100vh;
+    background-size: 100%;
     background-position: center;
     background-size: cover;
     height: 100vh;
-    filter: blur(0px);
-
   }
   
   .menu {
