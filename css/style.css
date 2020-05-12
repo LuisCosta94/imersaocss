@@ -30,11 +30,11 @@
   
 
   .bg-image{
-    background-image: url("https://wallpapercave.com/wp/wp2763910.gif");
+    background-image: url("https://i.pinimg.com/originals/0c/a0/dd/0ca0ddd9bf8dfee8a2c26227bf21f6b8.gif");
     background-size: 100vh;
     height: 100vh;
 
-    filter: blur(4px);
+    filter: blur(2px);
   
     
   /* Center and scale the image nicely */
